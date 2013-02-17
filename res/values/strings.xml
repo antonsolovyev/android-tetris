@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Tetris</string>
+        <string name="pause_menu_title">Pause</string>
+        <string name="resume_menu_title">Resume</string>
+        <string name="game_over_dialog_message">Game over!</string>
+        <string name="ok_button_label">OK</string>
+        <string name="cancel_button_label">Cancel</string>
+        <string name="score_dialog_title">High scores</string>
+        <string name="name_edit_title">Name</string>       
+        <string name="name_entry_dialog_title">Enter your name</string>
+        <string name="help_dialog_title">Help</string>                 
+</resources>

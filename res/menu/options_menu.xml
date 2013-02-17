@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+                android:id="@+id/new_game"
+                android:title="New Game"
+        />
+
+        <item
+                android:id="@+id/pause"
+                android:title="@string/pause_menu_title"
+        />
+          
+        <item
+                android:id="@+id/scores"
+                android:title="Scores"
+        />
+          
+        <item
+                android:id="@+id/quit"
+                android:title="Quit"
+        />
+        
+        <item
+                android:id="@+id/help"
+                android:title="Help"
+        />
+
+        <item
+                android:id="@+id/options"
+                android:title="Options">
+                
+                <menu>
+                
+                        <item
+                                android:id="@+id/show_preview"
+                                android:title="Show Preview"
+                                android:checked="true"
+                                android:checkable="true"
+                        />
+                        
+                        <item
+                                android:id="@+id/show_grid"
+                                android:title="Show Grid"
+                                android:checked="true"
+                                android:checkable="true"
+                        />
+                        
+                        <item
+                                android:id="@+id/clear_scores"
+                                android:title="Clear High Scores"
+                        />
+                        
+                </menu>
+                
+        </item>
+</menu>

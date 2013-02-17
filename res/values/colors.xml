@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="field_frame_color">#FFFFFFFF</color>
+        <color name="field_interior_color">#FF000000</color>
+        <color name="stats_text_color">#FFFFFFFF</color>
+        <color name="score_highlight_color">#FFFFFFFF</color>
+        <color name="grid_color">#FF404040</color>
+</resources>
