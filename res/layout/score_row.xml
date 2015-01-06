@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:orientation="horizontal"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
 
-        <TextView
-                android:id="@+id/score_row_position"
-                android:gravity="center_horizontal"
-                android:padding="3dip"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_weight="1"
-        />
-         
-        <TextView
-                android:id="@+id/score_row_name"
-                android:gravity="center_horizontal"                        
-                android:padding="3dip"                        
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_weight="1"
-        />
-        
-        <TextView
-                android:id="@+id/score_row_score"
-                android:gravity="center_horizontal"                        
-                android:padding="3dip"                        
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_weight="1"
-        />
-        
-        <TextView
-                android:id="@+id/score_row_timestamp"
-                android:gravity="center_horizontal"                        
-                android:padding="3dip"                        
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
-                android:layout_weight="1"
-        />
+    <TextView
+        android:id="@+id/score_row_position"
+        android:gravity="center_horizontal"
+        android:padding="3dip"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+    />
+     
+    <TextView
+        android:id="@+id/score_row_name"
+        android:gravity="center_horizontal"                        
+        android:padding="3dip"                        
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+    />
+    
+    <TextView
+        android:id="@+id/score_row_score"
+        android:gravity="center_horizontal"                        
+        android:padding="3dip"                        
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+    />
+    
+    <TextView
+        android:id="@+id/score_row_timestamp"
+        android:gravity="center_horizontal"                        
+        android:padding="3dip"                        
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+    />
         
 </LinearLayout> 
